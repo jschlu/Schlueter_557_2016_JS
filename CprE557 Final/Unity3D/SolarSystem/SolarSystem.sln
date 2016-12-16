@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem.Plugins", "SolarSystem.Plugins.csproj", "{D3D48C42-5C86-8BD0-4ADC-1BCAA8EDF80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem", "SolarSystem.csproj", "{55C2816F-C1BC-73E7-87B9-9FBFE98BA18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem.Editor.Plugins", "SolarSystem.Editor.Plugins.csproj", "{3549E06B-71BA-94B3-4B6B-C2288D031E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D48C42-5C86-8BD0-4ADC-1BCAA8EDF80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D48C42-5C86-8BD0-4ADC-1BCAA8EDF80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D48C42-5C86-8BD0-4ADC-1BCAA8EDF80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D48C42-5C86-8BD0-4ADC-1BCAA8EDF80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C2816F-C1BC-73E7-87B9-9FBFE98BA18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C2816F-C1BC-73E7-87B9-9FBFE98BA18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C2816F-C1BC-73E7-87B9-9FBFE98BA18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C2816F-C1BC-73E7-87B9-9FBFE98BA18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3549E06B-71BA-94B3-4B6B-C2288D031E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3549E06B-71BA-94B3-4B6B-C2288D031E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3549E06B-71BA-94B3-4B6B-C2288D031E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3549E06B-71BA-94B3-4B6B-C2288D031E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
